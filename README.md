@@ -18,9 +18,9 @@ proyecto/
 └── visores/
 ```
 ## Descarga de datos
-Los archivos de inputs/  seccionado_2023/ y 30824 no se incluyen en el repositorio por su tamaño.
+El archivos de inputs/  seccionado_2023/  no se incluyen en el repositorio por su tamaño.
 **`seccionado_2023/`**
-descargar y extraer en carpeta /inputs 
-**`30824.csv`**
-Alicante/Indicadores de renta media y mediana    descargar en fomato csv separado por ;  y guardar como  30824.csv
-30824  https://www.ine.es/dynt3/inebase/es/index.htm?padre=7132  
+https://www.ine.es/prodyser/cartografia/seccionado_2023.zip .Descargar y extraer en carpeta /inputs 
+
+Extraer los ficheros edades_2023.rar y 30824.rar
+
