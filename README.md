@@ -22,5 +22,8 @@ El archivos de inputs/  seccionado_2023/  no se incluyen en el repositorio por s
 **`seccionado_2023/`**
 https://www.ine.es/prodyser/cartografia/seccionado_2023.zip .Descargar y extraer en carpeta /inputs 
 
+
+**`edades_2023.csv`** y **`30824.csv`**
+Extraer desde los ficheros `edades_2023.rar` y `30824.rar`
 Extraer los ficheros edades_2023.rar y 30824.rar
 
